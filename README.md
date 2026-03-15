@@ -2,6 +2,44 @@
 
 This project builds a **data processing pipeline using Python and Pandas** to clean, standardize, and analyze badminton tournament datasets.
 
+---
+
+# Analytical Questions Explored
+
+The project answers the following **10 analytical questions**:
+
+### 1. Who is the most dominant singles player?
+Find the player with the highest win rate among players with at least 100 matches played.
+
+### 2. Which country dominates men's doubles tournaments?
+Determine which national teams produce the most successful doubles pairs.
+
+### 3. Does tournament level affect match intensity?
+Analyze whether higher-tier tournaments produce more competitive matches.
+
+### 4. Do retired matches skew tournament results?
+Examine how often matches end due to player retirement.
+
+### 5. Who scores the most consecutive points in a game?
+Identify the player or team with the longest scoring streak.
+
+### 6. How often does the team with fewer total points win?
+Analyze cases where the losing team actually scored more total points.
+
+### 7. How common are straight-set wins?
+Determine the proportion of matches that end in two sets versus three sets.
+
+### 8. Are certain months more intense in professional badminton?
+Analyze tournament scheduling patterns across the year.
+
+### 9. Which players improve performance in later rounds?
+Identify players whose performance increases in semifinals or finals.
+
+### 10. How does score momentum evolve during a match?
+Visualize point-by-point score progression to analyze match momentum.
+
+---
+
 The pipeline processes raw match data stored as CSV files, performs **entity resolution using fuzzy matching**, and generates insights about **player performance, tournament intensity, and match dynamics**.
 
 ---
@@ -85,44 +123,6 @@ This project demonstrates several common data engineering tasks:
 - Data transformation using Pandas  
 - Analytical querying  
 - Visualization of match dynamics  
-
----
-
-# Analytical Questions Explored
-
-The project answers the following **10 analytical questions**:
-
-### 1. Who is the most dominant singles player?
-Find the player with the highest win rate among players with at least 100 matches played.
-
-### 2. Which country dominates men's doubles tournaments?
-Determine which national teams produce the most successful doubles pairs.
-
-### 3. Does tournament level affect match intensity?
-Analyze whether higher-tier tournaments produce more competitive matches.
-
-### 4. Do retired matches skew tournament results?
-Examine how often matches end due to player retirement.
-
-### 5. Who scores the most consecutive points in a game?
-Identify the player or team with the longest scoring streak.
-
-### 6. How often does the team with fewer total points win?
-Analyze cases where the losing team actually scored more total points.
-
-### 7. How common are straight-set wins?
-Determine the proportion of matches that end in two sets versus three sets.
-
-### 8. Are certain months more intense in professional badminton?
-Analyze tournament scheduling patterns across the year.
-
-### 9. Which players improve performance in later rounds?
-Identify players whose performance increases in semifinals or finals.
-
-### 10. How does score momentum evolve during a match?
-Visualize point-by-point score progression to analyze match momentum.
-
----
 
 # Example Visualization
 
