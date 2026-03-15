@@ -72,7 +72,7 @@ data/processed
 ↓  
 analysis.py  
 
-![Pipeline Architecture](visualizations/pipeline.png)
+![Pipeline Architecture](visualizations/Pipeline.png)
 
 ---
 
