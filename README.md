@@ -1,12 +1,14 @@
-# Sports Data Processing Pipeline
+# Sports(Badminton) Data Processing Pipeline
 
 This project builds a **data processing pipeline using Python and Pandas** to clean, standardize, and analyze badminton tournament datasets.
+
+Badminton is a fast-paced racquet sport played indoors or outdoors, where two (singles) or four (doubles) players hit a shuttlecock (birdie) over a high net. The objective is to score points by landing the shuttle in the opponent's court, with matches typically played to 21 points across three sets.
 
 ---
 
 # Analytical Questions Explored
 
-The project answers the following **10 analytical questions**:
+The project answers the following **10 analytical badminton questions**:
 
 ### 1. Who is the most dominant singles player?
 Find the player with the highest win rate among players with at least 100 matches played.
