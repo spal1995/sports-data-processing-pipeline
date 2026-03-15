@@ -1,4 +1,4 @@
-# Sports(Badminton) Data Processing Pipeline
+# Sports(Badminton) Data Processing Pipeline (Python • Pandas • NumPy • Matplotlib • Seaborn)
 
 This project builds a **data processing pipeline using Python and Pandas** to clean, standardize, and analyze badminton tournament datasets.
 
