@@ -6,6 +6,8 @@ Badminton is a fast-paced racquet sport played indoors or outdoors, where two (s
 
 ---
 
+![Pipeline Architecture](visualizations/Pipeline.png)
+
 # Analytical Questions Explored
 
 The project answers the following **10 analytical badminton questions**:
@@ -71,8 +73,6 @@ entity_matching.py
 data/processed  
 ↓  
 analysis.py  
-
-![Pipeline Architecture](visualizations/Pipeline.png)
 
 ---
 
