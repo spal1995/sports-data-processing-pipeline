@@ -72,6 +72,8 @@ data/processed
 ↓  
 analysis.py  
 
+![Pipeline Architecture](visualizations/pipeline.png)
+
 ---
 
 # Repository Structure
